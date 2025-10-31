@@ -1,7 +1,8 @@
-Coumpound-Assignmet
-<br><br>
-This my first attempt in github.
-<br><br>
+<hr>
+<h1>Coumpound-Assignmet</h1>
+<hr><br>
+<h3>This my first attempt in github.</h3>
+<br>
 #include <stdio.h>
 <br>
 int main() {
