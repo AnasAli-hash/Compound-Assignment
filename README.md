@@ -1,4 +1,4 @@
-\t\t\t\tCoumpound-Assignmet
+Coumpound-Assignmet
 <br><br>
 This my first attempt in github.
 <br><br>
