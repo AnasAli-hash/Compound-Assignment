@@ -1,4 +1,8 @@
- #include <stdio.h>
+#Coumpound-Assignmet
+<br>
+This my first attempt in github.
+<br>
+#include <stdio.h>
 int main() {
     int a = 10;      // Assignment operator (=)
     printf("Initial value of a = %d\n", a);
